@@ -1,0 +1,11 @@
+C:\Users\shvec\source\repos\solarLab1\solarLab1\bin\Debug\netcoreapp3.1\solarLab1.exe
+C:\Users\shvec\source\repos\solarLab1\solarLab1\bin\Debug\netcoreapp3.1\solarLab1.deps.json
+C:\Users\shvec\source\repos\solarLab1\solarLab1\bin\Debug\netcoreapp3.1\solarLab1.runtimeconfig.json
+C:\Users\shvec\source\repos\solarLab1\solarLab1\bin\Debug\netcoreapp3.1\solarLab1.runtimeconfig.dev.json
+C:\Users\shvec\source\repos\solarLab1\solarLab1\bin\Debug\netcoreapp3.1\solarLab1.dll
+C:\Users\shvec\source\repos\solarLab1\solarLab1\bin\Debug\netcoreapp3.1\solarLab1.pdb
+C:\Users\shvec\source\repos\solarLab1\solarLab1\obj\Debug\netcoreapp3.1\solarLab1.csprojAssemblyReference.cache
+C:\Users\shvec\source\repos\solarLab1\solarLab1\obj\Debug\netcoreapp3.1\solarLab1.AssemblyInfoInputs.cache
+C:\Users\shvec\source\repos\solarLab1\solarLab1\obj\Debug\netcoreapp3.1\solarLab1.AssemblyInfo.cs
+C:\Users\shvec\source\repos\solarLab1\solarLab1\obj\Debug\netcoreapp3.1\solarLab1.dll
+C:\Users\shvec\source\repos\solarLab1\solarLab1\obj\Debug\netcoreapp3.1\solarLab1.pdb
